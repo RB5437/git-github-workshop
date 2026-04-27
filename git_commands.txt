@@ -15,3 +15,4 @@ git status
  git remote set-url origin https://personalaccessttoken@github.com/RB5437/git-github-workshop.git                                                                               
  git remote -v                                                                                                                                                                                      
  git push origin main
+git pull origin main
