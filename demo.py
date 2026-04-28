@@ -1,11 +1,5 @@
 def my_function():
-    a=5
-    b=6
-    c=6
+    a = 5
+    return a
 
-    return d
-
-my_function
-
-
-test()
+my_function()
